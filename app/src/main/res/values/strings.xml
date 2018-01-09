@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Dienstplan Mobile</string>
+    <string name="nav_header_title">Dienstplan mobile</string>
+    <string name="version_name">v. 0.2.7 Alpha</string>
+    <string name="description">registered to:</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="loading">Wird geladen… Bitte warten.</string>
+
+
+    <!-- Menu Items -->
+    <string name="start">Startseite</string>
+    <string name="personal_info">Meine Daten</string>
+    <string name="wishes">Meine Wünsche</string>
+    <string name="functions">Meine Funktionen</string>
+    <string name="trainings">Meine Ausbildungen</string>
+    <string name="holidays">Meine Urlaube</string>
+    <string name="statistic">Meine Statistik</string>
+    <string name="bulletin">Schwarzes Brett</string>
+    <string name="vcards">Visitenkarten</string>
+    <string name="contribute">Beitragen</string>
+    <string name="about">Informationen</string>
+    <string name="logoff">Abmelden</string>
+
+    <string name="other">Anderes</string>
+
+    <string name="title_activity_meine_daten">Meine Daten</string>
+    <string name="title_activity_meine_wuensche">Meine Wünsche</string>
+    <string name="title_activity_meine_funktionen">Meine Funktionen</string>
+    <string name="title_activity_meine_ausbildungen">Meine Ausbildungen</string>
+    <string name="title_activity_meine_urlaube">Meine Urlaube</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="title_activity_meine_statistik">Meine Statistik</string>
+    <string name="title_activity_bulletin">Schwarzes Brett</string>
+    <string name="title_activity_v_card">Visitenkarten</string>
+    <string name="title_activity_about">Informationen</string>
+    <string name="title_activity_contribute">Beitragen</string>
+    <string name="title_activity_downloads">Downloads</string>
+
+
+
+    <string name="action_settings">Einstellungen</string>
+
+
+    <string name="about_text">Über diese App:\nDarstellung des Dienstplans für mobile Endgeräte\n
+        Entwicklung und Design: Simon Mavec.\n
+        Basierend auf dem Dienstplansystem v.1.26.18 des Österreichischen Roten Kreuzes, Landesverband Steiermark.\n
+        Diese Anwendung dient lediglich der Darstellung der vom Österreichischen Roten Kreuz,
+        LV Steiermark über den Dienstplan zur Verfügung gestellten Informationen.\n
+        Alle Zertifikate, welche die sichere Übertragung der Anmeldedaten garantieren,
+        werden in dieser Anwendung gleich wie in jedem Browser verwendet. Dadurch kann eine sichere Verarbeitung der persönlichen Daten garantiert werden.\n
+        Der Entwickler ist nicht für den von der Anwendung dargestellten Inhalt verantwortlich.\n
+        Fragen, Anregungen, Beschwerden, Kritik oder auch Lob bitte per Mail an mavecsimon@gmail.com</string>
+
+    <string name="contribute_text">Um mir bei der Entwicklung etwas zu helfen,
+        könnt ihr kurze Werbespots anschauen. Wenn ihr danach auf \"installieren\" klickt,
+        kommt ihr in den Play-Store. Diese Weiterleitung hilft mir sehr - ihr müsst die beworbene App jedoch NICHT installieren.
+        \nFür jedes Video bekommt ihr einen Punkt. Diese können momentan noch nicht eingesetzt werden, es schadet jedoch nie, viele Punkte zu haben ;)
+        \nVielen Dank!</string>
+
+    <string name="overlay_popup_text">Vielen Dank, dass du dich für diese App entschieden hast! Ich hoffe, du findest sie praktisch und kannst sie gut verwenden.
+        \nSolltest du Anregungen oder Fragen haben, setze dich bitte mit mir in Verbindung.
+        \nIn die Entwicklung dieser App ist viel Zeit und Arbeit geflossen, deshalb wäre es toll, wenn du mich unterstützen könntest, indem du kurze Werbevideos ansiehst.
+        \nDiese findest du unter dem Menüpunkt \"Beitragen\". Wenn du nach dem Video auf \"installieren\" drückst, wirst du zum Play-Store weitergeleitet. Du musst diese App NICHT installieren - schon die Weiterleitung hilft mir enorm.
+        \nWillst du kurz einen Blick auf die \"Beitragen\"-Seite werfen?</string>
+
+    <string name="overlay_popup_short_text">Vielen Dank für die Verwendung dieser App.
+    \nUm mich bei der weiteren Entwicklung zu unterstützen, würde ich mich sehr freuen, wenn du unter dem Menüpunkt \"Beitragen\" einen kurzen Werbespot ansehen könntest.
+    \nMöchtest du jetzt zur \"Beitragen\"-Seite wechseln?</string>
+    <string name="btn_yes">Ja</string>
+    <string name="btn_no">Nein</string>
+    <string name="button_clear_prefs">Einstellungen zurücksetzen</string>
+    <string name="easteregg_button">drück mich!</string>
+
+    <string name="ad_reward_counter">Events:\n</string>
+    <string name="ad_button">VIDEO ANSEHEN</string>
+    <string name="score_text">Punkte:</string>
+    <string name="score_loading">punktestand</string>
+
+    <!-- Pop Ups -->
+    <string name="introduction_alert_title">Willkommen im Dienstplan Mobile!</string>
+    <string name="introduction_alert_content">Herzlichen Dank für den Download von Dienstplan Mobile. Ich hoffe die
+        App ist hilfreich und praktisch.
+        \nEine kurze Einführung: Oben Links findest du das Menü mit allen verfügbaren Seiten und weiteren Informationen.
+        Oben rechts findest du die Einstellungen. Dort kann festgelegt werden was von der App angezeigt wird.
+        \nWenn du die App nützlich findest, würde ich mich sehr über eine Bewertung im PlayStore freuen.
+        \nLG, Simon</string>
+    <string name="dont_show_again">Nicht erneut anzeigen</string>
+
+    <string name="update_available_alert_title">Update verfügbar</string>
+    <string name="update_available_alert_content">Eine neue Version von Dienstplan Mobile ist verfügbar. Möchtest du jetzt updaten?</string>
+
+    <string name="clear_all_preferences_titel">Alle Einstellungen der App auf Werkseinstellungen zurücksetzen?</string>
+
+    <string name="contribute_banner_ad_ID_1">ca-app-pub-4602622106790117/7503078635</string>
+
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_display_maintenance">Wartungsarbeiten anzeigen</string>
+    <string name="pref_display_recertification">Rezertifizierungsstatus anzeigen</string>
+    <string name="pref_display_upcoming_duties">Nächste eingeteilte Dienste anzeigen</string>
+    <string name="pref_display_open_duties">Offene Dienste anzeigen</string>
+    <string name="pref_display_events">Aktuelle Termine anzeigen</string>
+    <string name="pref_display_birthdays">Geburtstage anzeigen</string>
+    <string name="pref_display_enrolled_events">Anmeldungen zu Terminen anzeigen</string>
+    <string name="pref_display_personal_greetings">Persönliche Willkommensnachricht</string>
+    <string name="pref_personal_greeting_std">Bitte Nachricht eingeben.</string>
+
+    <string name="pref_display_text_fab">\'Text entfernen\'-Knopf anzeigen</string>
+    <string name="pref_display_text_fab_summ">Zeigt einen Knopf an, mit dem der Text \'Dienst wünschen\' entfernt werden kann.</string>
+    <string name="pref_display_duty_wishes">Eingetragene Wünsche anzeigen</string>
+
+    <string name="pref_allow_info_change">Änderung der Daten erlauben</string>
+    <string name="pref_allow_info_change_summ">Verhindert das (unabsichtliche) Ändern von Daten auf der \'Meine Daten\'-Seite.</string>
+
+    <string name="pref_trainings_show_dates">Kursbeginn und Ende anzeigen</string>
+
+    <string name="pref_info_text">Mit dem Zurück-Knopf oben links wird die Seite neu geladen und die Änderungen angewendet. Beim Drücken der Zurück-taste am Gerät werden die Änderungen erst nach dem Neustart der App wirksam.</string>
+
+    <string name="pref_group_title_main">STARTSEITE</string>
+    <string name="pref_group_title_wishes">MEINE WÜNSCHE</string>
+    <string name="pref_group_title_infos">MEINE DATEN</string>
+    <string name="pref_group_title_trainings">MEINE AUSBILDUNGEN</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Dienstpläne</string>
+    <string name="tab_text_2">Mitarbeiter</string>
+    <string name="tab_text_3">Sonstige</string>
+
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_start"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="@string/start"
+            android:checkable="true" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_person_24dp"
+            android:title="@string/personal_info"
+            android:checkable="true" />
+        <item
+            android:id="@+id/nav_wishes"
+            android:icon="@drawable/ic_menu_event_black"
+            android:title="@string/wishes"
+            android:checkable="true" />
+        <item
+            android:id="@+id/nav_functions"
+            android:icon="@drawable/ic_menu_functions_badge"
+            android:title="@string/functions"
+            android:checkable="true" />
+        <item
+            android:id="@+id/nav_trainings"
+            android:icon="@drawable/ic_menu_school_training"
+            android:title="@string/trainings"
+            android:checkable="true" />
+        <item
+            android:id="@+id/nav_holidays"
+            android:icon="@drawable/ic_menu_holiday_sun"
+            android:title="@string/holidays"
+            android:checkable="true" />
+        <item
+            android:id="@+id/nav_stats"
+            android:icon="@drawable/ic_menu_diagram_24dp"
+            android:title="@string/statistic"
+            android:checkable="true" />
+
+        <item
+            android:id="@+id/nav_bulletin"
+            android:icon="@drawable/ic_exclamation_star_24dp"
+            android:title="@string/bulletin"
+            android:checkable="true" />
+
+        <item
+            android:id="@+id/nav_vcards"
+            android:icon="@drawable/ic_nav_contacts_24dp"
+            android:title="@string/vcards"
+            android:checkable="true"/>
+
+    </group>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/nav_contribute"
+                android:icon="@drawable/ic_menu_money_dollarsign"
+                android:title="@string/contribute"
+                android:checkable="true"
+                android:visible="true"/>
+
+            <item
+                android:id="@+id/nav_downloads"
+                android:icon="@drawable/ic_menu_download_cloud_24dp"
+                android:title="@string/title_activity_downloads"
+                android:checkable="true"
+                android:visible="false"/>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="@string/about"
+                android:checkable="true" />
+            <item
+                android:id="@+id/nav_logoff"
+                android:icon="@drawable/ic_menu_logout_powersymbol"
+                android:title="@string/logoff"
+                android:checkable="true" />
+
+        </menu>
+    </item>
+</menu>

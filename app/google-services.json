@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "349792212220",
+    "firebase_url": "https://dienstplan-mobile.firebaseio.com",
+    "project_id": "dienstplan-mobile",
+    "storage_bucket": "dienstplan-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349792212220:android:25c846c0d5fc9b1d",
+        "android_client_info": {
+          "package_name": "at.mmco.rkdienstplanmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349792212220-q4i80bjb93tlohq43iaf9ee0re0334b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.mmco.rkdienstplanmobile",
+            "certificate_hash": "6c7b5309e40e716a451a636f5c8083dc7664ca16"
+          }
+        },
+        {
+          "client_id": "349792212220-av23rnebhi6hfngh8bqqorpc5vamqnmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZ9vrwmAkdjATQ-DGCCYyiMm86r-g2VQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349792212220-av23rnebhi6hfngh8bqqorpc5vamqnmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

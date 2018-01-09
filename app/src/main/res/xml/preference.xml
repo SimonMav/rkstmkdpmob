@@ -1,0 +1,99 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/pref_group_title_main"
+        android:key="pref_key_main_settings_group">
+
+        <SwitchPreference
+            android:key="pref_display_personal_greetings"
+            android:title="@string/pref_display_personal_greetings"
+            android:defaultValue="false" />
+
+        <EditTextPreference
+            android:key="pref_personal_greeting_string"
+            android:summary="@string/pref_personal_greeting_std"
+            android:defaultValue="@string/pref_personal_greeting_std"
+            android:persistent="true"/>
+
+        <SwitchPreference
+            android:key="pref_display_maintenance"
+            android:title="@string/pref_display_maintenance"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="pref_display_recertification"
+            android:title="@string/pref_display_recertification"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="pref_display_upcoming_duties"
+            android:title="@string/pref_display_upcoming_duties"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="pref_display_open_duties"
+            android:title="@string/pref_display_open_duties"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="pref_display_events"
+            android:title="@string/pref_display_events"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="pref_display_enrolled_events"
+            android:title="@string/pref_display_enrolled_events"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="pref_display_birthdays"
+            android:title="@string/pref_display_birthdays"
+            android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_group_title_infos"
+        android:key="pref_key_infos_settings_group">
+
+        <CheckBoxPreference
+            android:key="pref_allow_info_change"
+            android:title="@string/pref_allow_info_change"
+            android:summary="@string/pref_allow_info_change_summ"
+            android:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_group_title_wishes"
+        android:key="pref_key_wishes_settings_group">
+
+        <CheckBoxPreference
+            android:key="pref_wishes_display_fab"
+            android:title="@string/pref_display_text_fab"
+            android:summary="@string/pref_display_text_fab_summ"
+            android:defaultValue="true"/>
+
+        <SwitchPreference
+            android:key="pref_display_duty_wishes"
+            android:title="@string/pref_display_duty_wishes"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_group_title_trainings"
+        android:key="pref_key_trainings_settings_group">
+
+        <SwitchPreference
+            android:key="pref_trainings_display_dates"
+            android:title="@string/pref_trainings_show_dates"
+            android:defaultValue="false"/>
+    </PreferenceCategory>
+    <Preference
+        android:key="info_text"
+        android:summary="@string/pref_info_text"
+        android:icon="@drawable/ic_pref_info_black"
+        android:selectable="false"/>
+
+</PreferenceScreen>

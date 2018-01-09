@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>show_event_nav_header_title</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>event_nav_header_title_text</key>
+        <value>DIENSTPLAN MOBILE</value>
+    </entry>
+    <entry>
+        <key>show_info_popup</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>info_popup_title</key>
+        <value>$title$</value>
+    </entry>
+    <entry>
+        <key>info_popup_text</key>
+        <value>$text$</value>
+    </entry>
+    <entry>
+        <ke>min_apk_version_code</ke>
+        <value>15</value>
+    </entry>
+</defaultsMap>
